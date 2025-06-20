@@ -18,6 +18,7 @@
 
 *Applications*: Handwritten digit recognition for postal automation or bank check processing,Basics of image classification used in facial recognition, object detection, and medical imaging,Foundational project for beginners learning AI and machine learning##
 
-#OUPUT
+##OUTPUT
 ![Image](https://github.com/user-attachments/assets/725f8e00-78ec-4dc1-a4eb-4e939d8f7490)
+ Final Test Accuracy: 0.98
 
